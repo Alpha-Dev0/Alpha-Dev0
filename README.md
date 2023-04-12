@@ -21,14 +21,22 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alpha-Dev0&show_icons=true&theme=synthwave" alt="Alpha-Dev0 :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
 
 
 ____
 
-
 <p align="center">
 
-⭐️ [Alpha-Dev](https://github.com/Alpha-Dev0)
+<a href="https://twitter.com/Alpha_01000001">
+  <img align="center" alt="Ajay's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://github.com/Alpha-Dev0">
+  <img align="center" alt="Ajay's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Alpha_01000001">
+  <img align="center" alt="Ajay's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 </p>
